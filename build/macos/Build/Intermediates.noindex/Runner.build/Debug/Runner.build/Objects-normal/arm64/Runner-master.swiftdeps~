@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "96e0840a6680ba5d49d81e386d655953b8ce0b1d3da4d809083cfdefa654f8ed"
+build_start_time: [1677756131, 818742990]
+build_end_time: [1677756131, 839720010]
+inputs:
+  "/Users/nguyenanhtien/Documents/Flutter/flutter3/cryptoapi/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1677756119, 446281909]
+  "/Users/nguyenanhtien/Documents/Flutter/flutter3/cryptoapi/macos/Runner/AppDelegate.swift": !private [1677125871, 0]
+  "/Users/nguyenanhtien/Documents/Flutter/flutter3/cryptoapi/macos/Runner/MainFlutterWindow.swift": !private [1677125871, 0]
